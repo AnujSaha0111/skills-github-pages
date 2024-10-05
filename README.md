@@ -10,7 +10,6 @@
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
-
 </header>
 
 <!--
@@ -39,12 +38,10 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
 <footer>
-
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
